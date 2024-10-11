@@ -1,0 +1,37 @@
+
+
+
+
+
+# dp0-2
+
+name: Deployment
+
+on: [push]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check links
+        run: make linkcheck
+
+      - name: Build site
+        run: make html
+
+      - name: Upload documentation
+        env:
+          LTD_PASSWORD: ${{ secrets.LTD_PASSWORD }}
+          LTD_USERNAME: ${{ secrets.LTD_USERNAME }}
+        run: ltd upload --product dp0-2 --gh --dir _build/html
