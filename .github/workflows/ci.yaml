@@ -1,10 +1,3 @@
-
-
-
-
-
-# dp0-2
-
 name: Deployment
 
 on: [push]
@@ -34,4 +27,4 @@ jobs:
         env:
           LTD_PASSWORD: ${{ secrets.LTD_PASSWORD }}
           LTD_USERNAME: ${{ secrets.LTD_USERNAME }}
-        run: ltd upload --product dp0-2 --gh --dir _build/html
+        run: ltd upload --product citizen-science --gh --dir _build/html
