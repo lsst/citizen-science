@@ -14,4 +14,4 @@ python = "https://docs.python.org/3/"
 rsp = "https://rsp.lsst.io/"
 
 [sphinx.linkcheck]
-ignore = ["https://citizen-science.lsst.io/v/"]
+ignore = []
