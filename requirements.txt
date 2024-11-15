@@ -1,1 +1,2 @@
 documenteer[guide]
+sphinx==7.2.6
