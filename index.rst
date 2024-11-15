@@ -33,7 +33,7 @@ This site provides information about the Rubin Observatory Citizen Science docum
     :titlesonly:
     :glob:
 
-    *
+..    *
 
 
 .. _Rubin-Observatory-Documentation-Citizen-Science-Project-Information:
