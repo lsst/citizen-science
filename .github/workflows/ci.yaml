@@ -24,7 +24,9 @@ jobs:
         run: make html
 
       - name: Upload documentation
-        env:
-          LTD_PASSWORD: ${{ secrets.LTD_PASSWORD }}
-          LTD_USERNAME: ${{ secrets.LTD_USERNAME }}
-        run: ltd upload --product citizen-science --gh --dir _build/html
+        uses: lsst-sqre/ltd-upload@v1
+        with:
+          project: "citizen-science"
+          dir: "_build/html"
+          username: ${{ secrets.ltd_username }}
+          password: ${{ secrets.ltd_password }}
