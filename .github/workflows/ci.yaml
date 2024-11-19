@@ -26,7 +26,7 @@ jobs:
       - name: Upload documentation
         uses: lsst-sqre/ltd-upload@v1
         with:
-          project: "citizen-science"
+          project: "dfuchs-test-nope"
           dir: "_build/html"
           username: ${{ secrets.ltd_username }}
           password: ${{ secrets.ltd_password }}
