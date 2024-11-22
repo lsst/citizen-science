@@ -37,7 +37,7 @@ Citizen Science project guide
 The following is a guide to the Citizen Science project.
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     :glob:
 
     citizen-science-project-guide/index
