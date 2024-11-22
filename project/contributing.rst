@@ -173,7 +173,7 @@ Check out these resources and guides. Sources files are available to compare raw
 
 .. _Contributing-Style-Guide:
 
-Data products documentation style guide
----------------------------------------
+Citizen Science documentation style guide
+-----------------------------------------
 
 .. include:: documentation-citizen-science-style-guide.inc
