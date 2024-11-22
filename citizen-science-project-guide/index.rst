@@ -8,18 +8,58 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Project-Documentation-License:
+.. _Citizen-Science-Project-Guide-Project-Guide:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#####################
-Documentation license
-#####################
+#############
+Project guide
+#############
 
 .. This section should provide a brief, top-level description of the page.
 
-This content is licensed under a Creative Commons Attribution 4.0 International license (CC-BY).
+This page includes a guide on interfacing with Rubin Observatory for Citizen Science.
 
-.. literalinclude:: ../LICENSE
+
+.. _Project-Guide-Overview:
+
+Overview
+========
+
+This section is an overview of how to use the Citizen Science project.
+
+
+.. _Project-Guide-Data-Policy:
+
+Data policy
+===========
+
+This section includes information on the data policy for Citizen Science.
+
+
+.. _Project-Guide-Checklist:
+
+Checklist
+=========
+
+The following is a checklist for Citizen Science.
+
+
+.. _Project-Guide-Existing-Project-Catalog:
+
+Existing project catalog
+========================
+
+This following is a catalog of existing project information for Citizen Science.
+
+
+.. _Project-Guide-FAQ:
+
+FAQ
+===
+
+The information below is provided for frequently asked questions.
+
+.. include:: citizen-science-faq.inc

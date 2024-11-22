@@ -14,9 +14,9 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#####################################################
-Contributing to Citizen Science project documentation
-#####################################################
+#######################################################################
+Contributing to Rubin Observatory Citizen Science project documentation
+#######################################################################
 
 .. This section should provide a brief, top-level description of the page.
 
@@ -137,14 +137,14 @@ Approval process
 
 #. Request the following to review the PR (additional reviewers may be included in the process):
    
+   * Brian Nord
    * Melissa Graham
-   * Leanne Guy
 
 #. Respond to the comments received during the review process.
 
 #. After all reviewers approve, the submitter will squash commits and merge to main.
 
-#. Notify Melissa Graham or Leanne Guy the PR was merged.
+#. Notify Brian Nord or Melissa Graham the PR was merged.
 
 #. Notify the authorized individual to tag the release.
 

@@ -8,19 +8,19 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Citizen-Science-Project-Documentation-Information:
+.. _Project-Documentation-Information:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#################################################
-Citizen Science project documentation information
-#################################################
+#########################
+Documentation information
+#########################
 
 .. This section should provide a brief, top-level description of the page.
 
-This page includes information on the DP0.3 documentation project, including how to contribute.
+This page includes information on the Rubin Observatory Citizen Science documentation project, including how to contribute.
 
 .. toctree::
     :maxdepth: 2 
@@ -28,3 +28,18 @@ This page includes information on the DP0.3 documentation project, including how
     :glob:
 
     *
+
+
+.. _Project-Templates:
+
+Template folder
+===============
+
+This section is provided so the template folder files are available.
+
+.. toctree::
+	:maxdepth: 2
+	:titlesonly:
+	:glob:
+
+	templates/index
