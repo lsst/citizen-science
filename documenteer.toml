@@ -1,0 +1,17 @@
+[project]
+title = "Citizen Science"
+copyright = "2024 Association of Universities for Research in Astronomy, Inc. (AURA)"
+base_url = "https://citizen-science.lsst.io"
+github_url = "https://github.com/lsst/citizen-science"
+version = "Current"
+
+[sphinx]
+extensions = []
+rst_epilog_file = "rst_epilog.rst"
+
+[sphinx.intersphinx.projects]
+python = "https://docs.python.org/3/"
+rsp = "https://rsp.lsst.io/"
+
+[sphinx.linkcheck]
+ignore = []

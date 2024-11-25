@@ -1,0 +1,13 @@
+This _static/README includes information on using static objects within the top-level directory of the Vera C. Rubin Observatory Citizen Science.
+
+To use static files, add the file (png, svg or jpeg preferred for images) to this _static directory. The reST syntax for adding the image from the top-level directory is:
+
+.. figure:: _static/filename.ext
+    :name: fig-label
+    :target: http://target.link/url
+
+    Caption text.
+
+The _static/README in lower level directories should include instructions for static objects within that directory.
+
+See https://citizen-science.lsst.io/project/contributing.html for details on contributing to the document project.

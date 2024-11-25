@@ -1,0 +1,30 @@
+This is a template _static/README file (no extension) within the Vera C. Rubin Observatory Documentation for Citizen Science. This template can be used for a _static directory's README, but there is a different README template all other directories.
+
+Before creating a new _static directory, consider if it's appropriate to utilize the top-level _static directory or another _static directory from a higher level directory.
+
+Note: The lines above and proceeding blank line may be deleted after the file is copied within the destination directory.
+
+This _static/README includes information on using static objects within this directory, part of the Vera C. Rubin Observatory Documentation for Citizen Science. Do not reproduce static files in multiple _static directories; instead, use the appropriate reST syntax and/or symbolic links.
+
+To use static files, add the file (png, svg or jpeg preferred for images) to this _static directory. The reST syntax for adding the image from this _static directory is:
+
+.. figure:: ./_static/filename.ext
+    :name: fig-label
+    :target: http://target.link/url
+
+    Caption text.
+
+Symbolic links can be used for common static objects:
+
+1. Create a symbolic link in the _static directory of the lower level directory. (Syntax: $ln -s [TARGET] LINK_NAME)
+
+   $ ln -s ../../_static/filename.ext EXAMPLE_LINK
+
+2. The reST syntax for adding the linked image is:
+
+.. figure:: ./_static/EXAMPLE_LINK
+    :name: fig-label
+
+    Caption text.
+
+See https://citizen-science.lsst.io/project/contributing.html for details on contributing to the document project.

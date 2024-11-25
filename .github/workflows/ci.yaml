@@ -1,0 +1,32 @@
+name: Deployment
+
+on: [push]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check links
+        run: make linkcheck
+
+      - name: Build site
+        run: make html
+
+      - name: Upload documentation
+        uses: lsst-sqre/ltd-upload@v1
+        with:
+          project: "citizen-science"
+          dir: "_build/html"
+          username: ${{ secrets.ltd_username }}
+          password: ${{ secrets.ltd_password }}

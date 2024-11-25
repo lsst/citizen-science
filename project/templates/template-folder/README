@@ -1,0 +1,15 @@
+This is a template README file (no extension) within the Vera C. Rubin Observatory Documentation for Citizen Science. This template can be used for a directory's README, but there is a different README template for a _static directory.
+
+To create a new directory:
+
+1. Copy template-folder to the destination, then rename appropriately.
+
+2. Contribute to the README. The file should describe the purpose of the directory with directions on contributing and releasing.
+
+3. Determine if a _static directory is needed. If so, contribute to the _static/README (provided in template-folder).
+
+Note: The lines above and proceeding blank line may be deleted after the file is copied within the destination directory.
+
+This README includes information on this directory, part of the Vera C. Rubin Observatory Documentation for Citizen Science.
+
+See https://citizen-science.lsst.io/project/contributing.html for details on contributing to the document project.
