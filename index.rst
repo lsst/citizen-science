@@ -22,7 +22,7 @@ Vera C. Rubin Observatory Documentation for Citizen Science
 .. Important::
 
     This documentation area is under development and only in the early stages of design.
-    It should not be used nor consulted for a place of information at this time.
+    It should not be used nor consulted for information at this time.
 
     The currently active documentation is available at `Rubin Observatory Citizen Science <https://rubinobservatory.org/for-scientists/citizen-science>`_.
 
