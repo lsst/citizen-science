@@ -18,9 +18,4 @@
 Data Policy
 ###########
 
-.. _Project-Guide-Data-Policy:
-
-Data policy
-===========
-
 This section includes information on the data policy for Citizen Science.

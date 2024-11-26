@@ -18,9 +18,4 @@
 Checklist
 #########
 
-.. _Project-Guide-Checklist:
-
-Checklist
-=========
-
 The following is a checklist for Citizen Science.

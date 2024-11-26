@@ -19,11 +19,6 @@
 FAQ
 ###
 
-.. _Project-Guide-FAQ:
-
-FAQ
-===
-
 The information below is provided for frequently asked questions.
 
 .. include:: citizen-science-faq.inc

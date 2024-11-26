@@ -18,9 +18,4 @@
 Existing Project Catalog
 ########################
 
-.. _Project-Guide-Existing-Project-Catalog:
-
-Existing project catalog
-========================
-
 This following is a catalog of existing project information for Citizen Science.
