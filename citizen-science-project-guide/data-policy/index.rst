@@ -14,20 +14,8 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#############
-Project guide
-#############
+###########
+Data Policy
+###########
 
-.. This section should provide a brief, top-level description of the page.
-
-This page includes a guide on interfacing with Rubin Observatory for Citizen Science.
-
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
-
-   overview/index
-   data-policy/index
-   checklist/index
-   existing-project-catalog/index
-   faq/index
+This section includes information on the data policy for Citizen Science.

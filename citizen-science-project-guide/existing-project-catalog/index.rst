@@ -8,24 +8,14 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Citizen-Science-Project-Guide-FAQ:
+.. _Citizen-Science-Project-Guide-Project-Guide:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-.. This file does not contain a title so it can match formatting in another location (citizen-science-project-guide/index.rst).
-.. title:: FAQ
-.. ###
-.. FAQ
-.. ###
+########################
+Existing Project Catalog
+########################
 
-.. This section should provide a brief, top-level description of the page.
-
-
-.. _FAQ-Primary-Contact:
-
-Who should I contact for additional information?
-------------------------------------------------
-
-The primary contact for the Citizen Science project is `Brian Nord <mailto:nord@fnal.gov>`__.
+This following is a catalog of existing citizen science projects.
