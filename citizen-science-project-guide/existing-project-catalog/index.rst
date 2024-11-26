@@ -18,4 +18,4 @@
 Existing Project Catalog
 ########################
 
-This following is a catalog of existing project information for Citizen Science.
+This following is a catalog of existing citizen science projects.
