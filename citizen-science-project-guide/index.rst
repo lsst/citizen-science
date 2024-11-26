@@ -52,3 +52,4 @@ The information below is provided for frequently asked questions.
    :titlesonly:
 
    overview/index
+   data-policy/index
