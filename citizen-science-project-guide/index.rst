@@ -54,3 +54,9 @@ FAQ
 The information below is provided for frequently asked questions.
 
 .. include:: citizen-science-faq.inc
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   overview/index
