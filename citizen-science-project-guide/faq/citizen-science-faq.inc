@@ -28,4 +28,5 @@
 Who should I contact for additional information?
 ------------------------------------------------
 
-The primary contact for the Citizen Science project is `Brian Nord <mailto:nord@fnal.gov>`__.
+Questions about doing citizen science projects with Rubin Observatory should be submitted in the
+Support category of the `Rubin Community Forum <https://community.lsst.org/>`__.
