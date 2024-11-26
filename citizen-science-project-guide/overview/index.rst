@@ -18,9 +18,4 @@
 Overview
 ########
 
-.. _Project-Guide-Overview:
-
-Overview
-========
-
 This section is an overview of how to use the Citizen Science project.
