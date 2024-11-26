@@ -22,15 +22,6 @@ Project guide
 
 This page includes a guide on interfacing with Rubin Observatory for Citizen Science.
 
-.. _Project-Guide-FAQ:
-
-FAQ
-===
-
-The information below is provided for frequently asked questions.
-
-.. include:: citizen-science-faq.inc
-
 .. toctree::
    :maxdepth: 2
    :titlesonly:
