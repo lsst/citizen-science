@@ -19,3 +19,14 @@ Existing Project Catalog
 ########################
 
 This following is a catalog of existing citizen science projects.
+
+.. list-table:: DP0 Science Assembly Recordings
+   :header-rows: 1
+   :widths: 1 1 4 
+
+   * - Project Lead
+     - Date
+     - Project Title
+   * -  Test Name   
+     -  2022-07-08
+     - `DP0.2 Kick-Off Info Session <https://community.lsst.org/t/dp0-2-kick-off-info-session-slides-pre-recorded-presentation/6846>`__
