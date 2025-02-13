@@ -59,8 +59,8 @@ The following information includes tutorials for Citizen Science.
 
 .. _Rubin-Observatory-Documentation-Citizen-Science-Get-Support:
 
-Get support
-===========
+Resources
+=========
 
 The following is information is provided to get additional support for Citizen Science.
 
