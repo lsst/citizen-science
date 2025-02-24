@@ -21,6 +21,6 @@ Get support
 To ask questions or get help with any aspect of Rubin Observatory please post a new topic in the `Support category of the Rubin Community Forum <https://community.lsst.org/c/support/6>`_.
 
 See also these intructions for `how to create a new topic <https://community.lsst.org/t/how-to-make-a-new-topic/8197>`_
-and `how to ask a confidential question <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>` via the Forum.
+and `how to ask a confidential question <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>`_ via the Forum.
 
 Rubin staff monitor the Support category and will respond to all posts.
