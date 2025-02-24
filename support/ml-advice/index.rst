@@ -8,23 +8,14 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Resources:
+.. _Resources-ML-Advice:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#########
-Resources
-#########
+########################################
+Advice for machine learning integrations
+########################################
 
-.. This section should provide a brief, top-level description of the page.
-
-This page includes information on getting support for Citizen Science as well as additional resources.
-
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
-
-   get-support/index
-   ml-advice/index
+*Advice, resources, and best practices for the integration of machine learning techniques into Citizen Science projects to be added here.*
