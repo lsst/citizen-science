@@ -8,23 +8,19 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _Resources:
+.. _Resources-Get_Support:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-#########
-Resources
-#########
+###########
+Get support
+###########
 
-.. This section should provide a brief, top-level description of the page.
+To ask questions or get help with any aspect of Rubin Observatory please post a new topic in the `Support category of the Rubin Community Forum <https://community.lsst.org/c/support/6>`_.
 
-This page includes information on getting support for Citizen Science as well as additional resources.
+See also these intructions for `how to create a new topic <https://community.lsst.org/t/how-to-make-a-new-topic/8197>`_
+and `how to ask a confidential question <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>` via the Forum.
 
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
-
-   get-support/index
-   ml-advice/index
+Rubin staff monitor the Support category and will respond to all posts.
