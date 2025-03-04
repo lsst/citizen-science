@@ -20,4 +20,31 @@ Tutorials
 
 .. This section should provide a brief, top-level description of the page.
 
-This page includes tutorials for Citizen Science.
+This page includes description of the Citizen Science tutorials.
+The overall purpose of these tutorials is to guide Rubin scientists through the process of creating a Zooniverse project and retrieving the classifications.
+There are three notebooks:
+
+1. Introductory notebook - 01_Introduction_to_Citsci_Pipeline.ipynb
+2. Creating an image flipbook on Zooniverse - 02_Send_Flipbook_Variable_Stars_Imaging.ipynb
+3. How to download and aggregate Zooniverse user classifications - 03_Aggregate_Classifications.ipynb
+
+`Link to Github repo <https://github.com/lsst-epo/citizen-science-notebooks>`_
+
+Here we briefly describe the purpose of each notebook.
+
++++++++++++++++
+Introductory notebook - 01_Introduction_to_Citsci_Pipeline.ipynb
++++++++++++++++
+This is our recommended starting notebook.
+It guides a PI through the process of creating a Zooniverse project, sending data (specifically images) from the Rubin Science Platform (RSP) to the Zooniverse, and retrieving raw classifications from Zooniverse.
+
++++++++++++++++
+Creating an image flipbook on Zooniverse - 02_Send_Flipbook_Variable_Stars_Imaging.ipynb
++++++++++++++++
+This notebook demonstrates how to query and send a flipbook of variable star images from the RSP to Zooniverse.
+
++++++++++++++++
+How to download and aggregate Zooniverse user classifications - 03_Aggregate_Classifications.ipynb
++++++++++++++++
+This notebook guides a PI through the process of retrieving and aggregating classification data from Zooniverse.
+It builds upon the example of retrieval in the first tutorial notebook, this time demonstrating how to aggregate the raw user classifications.
