@@ -20,4 +20,41 @@ Tutorials
 
 .. This section should provide a brief, top-level description of the page.
 
-This page includes tutorials for Citizen Science.
+These tutorial notebooks guide Rubin scientists through the process of creating a Zooniverse project and retrieving classifications.
+The purpose of each individual notebook is outlined below.
+
+`Citizen Science notebooks GitHub repository <https://github.com/lsst-epo/citizen-science-notebooks>`_
+
+++++++++++++++++++++++++++++++++++++++
+Introduction to Rubin Citizen Science
+++++++++++++++++++++++++++++++++++++++
+
+**Notebook:** ``01_Introduction_to_Citsci_Pipeline.ipynb``  
+
+Start with this notebook to learn how to create a Zooniverse project with Rubin, send images from the Rubin Science Platform (RSP) to Zooniverse, and retrieve raw classifications.
+
++++++++++++++++++++++++++++++++++++++++
+Create an Image Flipbook on Zooniverse
++++++++++++++++++++++++++++++++++++++++
+
+**Notebook:** ``02_Send_Flipbook_Variable_Stars_Imaging.ipynb``  
+
+Use this notebook to query and send a flipbook of variable star images from the RSP to Zooniverse.
+A flipbook is a collection of multiple images, useful for tracking and identifying sources at the same location that change over time.
+This notebook focuses on variable stars, which exhibit brightness variations.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Download and Aggregate Zooniverse User Classifications
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**Notebook:** ``03_Aggregate_Classifications.ipynb``  
+
+Use this notebook to retrieve and aggregate classification data from Zooniverse.
+This tutorial aggregates (or combines) user classifications by grouping them by task and user.
+It selects the most recent classification from each user and applies Zooniverse's `question_consensus_reducer` function to determine consensus for each subject ID.
+This notebook builds on the retrieval process demonstrated in the first tutorial and extends it to aggregating raw user classifications.
+
+
+
+
+
