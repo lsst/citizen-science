@@ -31,8 +31,7 @@ Introduction to Rubin Citizen Science
 
 **Notebook:** ``01_Introduction_to_Citsci_Pipeline.ipynb``  
 
-Start with this notebook to learn how to create a Zooniverse project with Rubin.
-It explains how to create a Zooniverse project, send images from the Rubin Science Platform (RSP) to Zooniverse, and retrieve raw classifications.
+Start with this notebook to learn how to create a Zooniverse project with Rubin, send images from the Rubin Science Platform (RSP) to Zooniverse, and retrieve raw classifications.
 
 +++++++++++++++++++++++++++++++++++++++
 Create an Image Flipbook on Zooniverse
@@ -51,8 +50,8 @@ Download and Aggregate Zooniverse User Classifications
 **Notebook:** ``03_Aggregate_Classifications.ipynb``  
 
 Use this notebook to retrieve and aggregate classification data from Zooniverse.
-Aggregation combines user classifications by grouping them by task and user.
-The process selects the most recent classification from each user and applies Zooniverse's `question_consensus_reducer` function to determine consensus for each subject ID.
+This tutorial aggregates (or combines) user classifications by grouping them by task and user.
+It selects the most recent classification from each user and applies Zooniverse's `question_consensus_reducer` function to determine consensus for each subject ID.
 This notebook builds on the retrieval process demonstrated in the first tutorial and extends it to aggregating raw user classifications.
 
 
