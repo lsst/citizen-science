@@ -18,15 +18,22 @@
 Existing Project Catalog
 ########################
 
-This following is a catalog of existing citizen science projects.
+This table is a catalog of existing citizen science projects, including projects that are completed, active, idle and soon-to-launch. Active and past projects can also be accessed on the Rubin community page on Zooniverse. We suggest you consult this list early in project developement to avoid duplication of efforts where possible and facilitate collaboration.
+If you have any concerns, please reach out to the citsci team.
+
+This table was last updated: XX-XX-2025
 
 .. list-table:: DP0 Science Assembly Recordings
    :header-rows: 1
-   :widths: 1 1 4 
+   :widths: 3 1 1 1 1 
 
-   * - Project Lead
-     - Date
-     - Project Title
-   * -  Test Name   
-     -  2022-07-08
-     - `DP0.2 Kick-Off Info Session <https://community.lsst.org/t/dp0-2-kick-off-info-session-slides-pre-recorded-presentation/6846>`__
+   * - Project Title
+     - Project Lead
+     - Last Data Upload
+     - Status
+     - Languages Supported
+   * -  Example Project  <https://www.zooniverse.org>
+     -  CitSci Team
+     -  XX-XX-2025
+     - Idle
+     - EN
