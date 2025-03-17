@@ -23,7 +23,7 @@ Tutorials
 This page includes description of the Citizen Science tutorial notebooks.
 Here we briefly describe the purpose of each notebook.
 The overall purpose of these tutorials is to guide Rubin scientists through the process of creating a Zooniverse project and retrieving the classifications.
-`Link to Github repo <https://github.com/lsst-epo/citizen-science-notebooks>`_
+`Citizen Science notebooks GitHub repository <https://github.com/lsst-epo/citizen-science-notebooks>`_
 
 
 
