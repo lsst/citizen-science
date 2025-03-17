@@ -32,18 +32,18 @@ There are three notebooks:
 
 Here we briefly describe the purpose of each notebook.
 
-+++++++++++++++
+++++++++++++++++++++++++++++++++++++++
 Introduction to Rubin citizen science
-+++++++++++++++
+++++++++++++++++++++++++++++++++++++++
 
 **Notebook:** ``01_Introduction_to_Citsci_Pipeline.ipynb``  
 
 This is our recommended starting notebook.
 It guides a PI through the process of creating a Zooniverse project, sending data (specifically images) from the Rubin Science Platform (RSP) to the Zooniverse, and retrieving raw classifications from Zooniverse.
 
-+++++++++++++++
++++++++++++++++++++++++++++++++++++++++
 Create an image flipbook on Zooniverse
-+++++++++++++++
++++++++++++++++++++++++++++++++++++++++
 
 **Notebook:** ``02_Send_Flipbook_Variable_Stars_Imaging.ipynb``  
 
@@ -51,9 +51,9 @@ This notebook demonstrates how to query and send a flipbook of variable star ima
 A flipbook is a collection of multiple images, which could be useful for tracking and identifying sources at the same location that change with time.
 For example, this notebook examines variable stars, which change brightness with time.
 
-+++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Download and aggregate Zooniverse user classifications
-+++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **Notebook:** ``03_Aggregate_Classifications.ipynb``  
 
