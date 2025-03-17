@@ -23,7 +23,7 @@ If you have any concerns, please reach out to the citsci team.
 
 This table was last updated: XX-XX-2025
 
-.. list-table:: DP0 Science Assembly Recordings
+.. list-table:: Rubin CitSci Projects
    :header-rows: 1
    :widths: 3 1 1 1 1 
 
@@ -32,7 +32,7 @@ This table was last updated: XX-XX-2025
      - Last Data Upload
      - Status
      - Languages Supported
-   * -  Example Project  <https://www.zooniverse.org>
+   * -  ` Example Project  <https://www.zooniverse.org> `__
      -  CitSci Team
      -  XX-XX-2025
      - Idle
