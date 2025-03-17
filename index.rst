@@ -26,15 +26,16 @@ Vera C. Rubin Observatory Documentation for Citizen Science
 
     The currently active documentation is available at `Rubin Observatory Citizen Science <https://rubinobservatory.org/for-scientists/citizen-science>`_.
 
-This site provides information about the Vera C. Rubin Observatory Citizen Science project.
+This site provides information about the Vera C. Rubin Observatory Citizen Science project for scientists and project leads. For volunteers wanting to participate, please visit rubinobservatory.org/explore/citizen-science. 
 
+The Rubin CitSci effort is intended to support the science community in making successful projects and to encourage public participation. 
 
 .. _Rubin-Observatory-Documentation-Citizen-Science-Project-Guide:
 
 Citizen Science project guide
 =============================
 
-The following is a guide to the Citizen Science project.
+The following is a guide to the resources for Citizen Science projects and an overview of Rubin's Citizen Science effort.
 
 .. toctree::
     :maxdepth: 2
