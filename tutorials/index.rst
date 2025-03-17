@@ -20,40 +20,42 @@ Tutorials
 
 .. This section should provide a brief, top-level description of the page.
 
-The overall purpose of the Citizen Science tutorial notebooks is to guide Rubin scientists through the process of creating a Zooniverse project and retrieving the classifications.
-Below we describe the purpose of each individual notebook.
+These tutorial notebooks guide Rubin scientists through the process of creating a Zooniverse project and retrieving classifications.
+The purpose of each individual notebook is outlined below.
 
 `Citizen Science notebooks GitHub repository <https://github.com/lsst-epo/citizen-science-notebooks>`_
 
-
-
 ++++++++++++++++++++++++++++++++++++++
-Introduction to Rubin citizen science
+Introduction to Rubin Citizen Science
 ++++++++++++++++++++++++++++++++++++++
 
 **Notebook:** ``01_Introduction_to_Citsci_Pipeline.ipynb``  
 
-This is our recommended starting notebook.
-It guides a PI through the process of creating a Zooniverse project, sending data (specifically images) from the Rubin Science Platform (RSP) to the Zooniverse, and retrieving raw classifications from Zooniverse.
+Start with this notebook to learn how to create a Zooniverse project with Rubin.
+It explains how to create a Zooniverse project, send images from the Rubin Science Platform (RSP) to Zooniverse, and retrieve raw classifications.
 
 +++++++++++++++++++++++++++++++++++++++
-Create an image flipbook on Zooniverse
+Create an Image Flipbook on Zooniverse
 +++++++++++++++++++++++++++++++++++++++
 
 **Notebook:** ``02_Send_Flipbook_Variable_Stars_Imaging.ipynb``  
 
-This notebook demonstrates how to query and send a flipbook of variable star images from the RSP to Zooniverse.
-A flipbook is a collection of multiple images, which could be useful for tracking and identifying sources at the same location that change with time.
-For example, this notebook examines variable stars, which change brightness with time.
+Use this notebook to query and send a flipbook of variable star images from the RSP to Zooniverse.
+A flipbook is a collection of multiple images, useful for tracking and identifying sources at the same location that change over time.
+This notebook focuses on variable stars, which exhibit brightness variations.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Download and aggregate Zooniverse user classifications
+Download and Aggregate Zooniverse User Classifications
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **Notebook:** ``03_Aggregate_Classifications.ipynb``  
 
-This notebook guides a PI through the process of retrieving and aggregating classification data from Zooniverse.
-Aggregation is the process of combining classifications.
-In this case, application means grouping classifications by task and user. 
-We select the most recent classification from each user and use the Zooniverse `question_consesus_reducer` function to determine the consensus for each subject ID amongst all users.
-It builds upon the example of retrieval in the first tutorial notebook, this time demonstrating how to aggregate the raw user classifications.
+Use this notebook to retrieve and aggregate classification data from Zooniverse.
+Aggregation combines user classifications by grouping them by task and user.
+The process selects the most recent classification from each user and applies Zooniverse's `question_consensus_reducer` function to determine consensus for each subject ID.
+This notebook builds on the retrieval process demonstrated in the first tutorial and extends it to aggregating raw user classifications.
+
+
+
+
+
