@@ -21,7 +21,7 @@ Tutorials
 .. This section should provide a brief, top-level description of the page.
 
 These tutorial notebooks guide Rubin scientists through the process of creating a Zooniverse project and retrieving classifications.
-The purpose of each individual notebook is outlined below.
+The purpose of each individual notebook is outlined below. Additionally, here we introduce the `rubin.citsci` package.
 
 `Citizen Science notebooks GitHub repository <https://github.com/lsst-epo/citizen-science-notebooks>`_
 
@@ -54,7 +54,9 @@ This tutorial aggregates (or combines) user classifications by grouping them by 
 It selects the most recent classification from each user and applies Zooniverse's `question_consensus_reducer` function to determine consensus for each subject ID.
 This notebook builds on the retrieval process demonstrated in the first tutorial and extends it to aggregating raw user classifications.
 
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+`rubin.citsci` package
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
