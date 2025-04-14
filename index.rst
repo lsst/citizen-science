@@ -48,7 +48,8 @@ The following is a guide to the Citizen Science project.
 Tutorials
 =========
 
-The following information includes tutorials for Citizen Science.
+The following information includes tutorials for Citizen Science. 
+We also include a description of the `rubin.citsci` package, which includes the workhorse tools for citizen science with Rubin.
 
 .. toctree::
     :maxdepth: 2
