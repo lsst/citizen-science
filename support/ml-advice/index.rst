@@ -14,11 +14,12 @@
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
 .. A warning will alert you of identical labels during the linkcheck process.
 
-########################################
-Advice for machine learning integrations
-########################################
+################################################################################
+Considerations and advice for integrating AI with Citizen Science in Rubin
+################################################################################
 
 *Advice, resources, and best practices for the integration of machine learning techniques into Citizen Science projects to be added here.*
+
 
 
 Overview
@@ -38,7 +39,6 @@ Roles and paths for integrating AI with Citizen Science
     - classification probabilities must be calibrated to remove bias
     - Reciprocal/complementary roles of humans and machines in classifications. Pro's/con's, strengths/weaknesses of each.
 
-
 - Mechanisms/pathways
     - Humans prepare data for machines: it is common for citizen science projects to use human-labeled data as a way to train machine learning algorithms
     - Machines prepare data for humans: Unsupervised learning and domain adaptation methods are well-suited for labeling new data. Humans are then often useful
@@ -46,8 +46,18 @@ Roles and paths for integrating AI with Citizen Science
 
 
 
+Typical steps for implementing AI with Citizen Science
+=============================================================
+
+1. Establish a clear question or problem -- e.g., classify a kind of object
+2. Study and prepare data: create classes and make sure there are enough 
+3. Obtain classifications from one kind of classifier (CS volunteers or AI model)
+4. Send labels to the other kind of classifier 
+
+
+
 Potential and pitfalls of AI
-============================
+=============================================================
 
 - Interpretability
 - Taking up space from humans
@@ -64,11 +74,22 @@ Selected papers at the intersection of AI and Citizen Science
 - Galaxy Zoo (cite)
 - Dark Energy explorers (cite)
 - Planet hunters (cite)
+- Supernova hunters
 
 
 
-Glossary of Terms for AI and Citizen Science
-============================================
+Selected papers and resources for AI and data science 
+=============================================================
+
+- Karpathy's recipe for neural networks
+- Kim and ?? on neural networks for star-galaxy separation
+- Dieleman et al., 2018 on galaxy morphologies
+- Jacobs et al., strong lensing in DES
+
+
+
+Glossary of Terms for AI 
+=============================================================
 
 - Supervised learning
 - Unsupervised learning
@@ -82,8 +103,17 @@ Glossary of Terms for AI and Citizen Science
 
 
 
+Codebases for AI
+=============================================================
+
+- Scikit Learn
+- Pytorch
+- Tensorflow
+
+
+
 Open Questions when integrating AI and CS
-=========================================
+=============================================================
 
 - How do humans learn differently when interacting with AI in an active learning loop?
 - How do errors propagate from imperfectly labeled data to another classification box?
@@ -92,8 +122,7 @@ Open Questions when integrating AI and CS
 
 
 Recommendations when integrating AI and Citizen Science
-=======================================================
-
+=============================================================
 - This is not a chatbot interaction; it's longer-term.
 - Be honest and forthright with the CS volunteers.
 - Pre-stablish principled statistical metrics for evaluating and calibrating classification outputs.
@@ -103,8 +132,7 @@ Recommendations when integrating AI and Citizen Science
 
 
 Related tutorials
-=================
-
+=============================================================
 - Basics of AI for images (link)
 - Basics of AI with tabular data (TBD)
 - Basics of AI for images with Rubin simulations (TBD)
