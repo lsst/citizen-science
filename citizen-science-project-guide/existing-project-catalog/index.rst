@@ -32,7 +32,7 @@ This table was last updated: XX-XX-2025
      - Last Data Upload
      - Status
      - Languages Supported
-   * -  ` Example Project  <https://www.zooniverse.org> `__
+   * -  `Example Project  <https://www.zooniverse.org>`__
      -  CitSci Team
      -  XX-XX-2025
      - Idle
