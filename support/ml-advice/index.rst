@@ -15,7 +15,7 @@
 .. A warning will alert you of identical labels during the linkcheck process.
 
 ################################################################################
-Considerations and advice for integrating AI with Citizen Science in Rubin
+Considerations for integrating AI with Citizen Science in Rubin
 ################################################################################
 
 *Advice, resources, and best practices for the integration of machine learning techniques into Citizen Science projects to be added here.*
@@ -25,9 +25,11 @@ Considerations and advice for integrating AI with Citizen Science in Rubin
 Overview
 ========
 
-- Purpose of this page
-- Zooniverse is the main mechanism for active learning
-- Rubin offers tutorials for other mechanisms
+.. - Purpose of this page
+The goal of this page is to provide background, references, and advice for Rubin users who would like to use artificial intelligence (AI) -- otherwise known as machine learning (ML) -- within or alongside their citizen science (CS) research workflows. AI and CS are overlapping and complementary procedures for rapidly assessing (typically, classifying) scientific data. They have similar and unique pros and cons, and there are multiple ways to use these two methods in concert to improve the quality of your scientific results. 
+
+.. - Zooniverse is the main mechanism for active learning
+.. - Rubin offers tutorials for other mechanisms
 
 
 
