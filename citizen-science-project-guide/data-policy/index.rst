@@ -18,7 +18,7 @@
 Data Policy
 ###########
 
-This section describes how Rubin data can be used for citizen science projects with Rubin Observatory data in conjunction with the Zooniverse. It is the responsibilty of the project team to make sure their project is in accordance with Rubin's Data policy (`RDO-013 <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_), however the CitSci team is available to help and can answer inquiries regarding data for specific projects. The following sections are intending to provide general support for common data types for projects.
+This section describes how Rubin data can be used for citizen science projects. It is the responsibilty of the project team to make sure their project is in accordance with Rubin's Data policy (`RDO-013 <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_), however the CitSci team is available to help and can answer inquiries regarding data for specific projects. The following sections are intending to provide general support for common data types for projects.
 
 Proprietary
 ===========
