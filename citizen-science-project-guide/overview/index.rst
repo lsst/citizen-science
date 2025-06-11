@@ -18,4 +18,9 @@
 Overview
 ########
 
-This section is an overview of how to use the Citizen Science project.
+Rubin Observatory's CitSci team provides an infrastructure to support the creation and management of citizen science projects using data from the Legacy Survey of Space and Time (LSST). This pipeline connects the Rubin Science Platform (RSP) with the Zooniverse platform, allowing project leads to develop projects without the needing to download/upload large volumes of data and providing data storage.
+
+Through a notebook-based interface and a dedicated data pipeline, Rubin enables efficient sharing of large datasets, streamlined project setup, and technical support. This infrastructure includes templates, and guidelines to ensure compliance with data rights policies.
+
+Beyond technical support, Rubin fosters a collaborative community for project leads to share ideas, troubleshoot challenges, and coordinate efforts. Projects also benefit from broader visibility through Rubin’s public outreach channels, and may have opportunities to engage with formal education programs, further amplifying the reach of citizen science initiatives.
+
