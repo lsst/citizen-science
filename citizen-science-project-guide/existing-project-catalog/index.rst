@@ -37,4 +37,9 @@ This table was last updated: XX-XX-2025
      -  N/A
      - Under Developement 
      - EN
+   * -  Comet Catchers    
+     -  Colin Orion Chandler
+     -  N/A
+     - Under Developement 
+     - EN
 
