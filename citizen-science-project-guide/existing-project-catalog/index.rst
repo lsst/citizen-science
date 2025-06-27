@@ -32,8 +32,14 @@ This table was last updated: XX-XX-2025
      - Last Data Upload
      - Status
      - Languages Supported
-   * -  `Example Project  <https://www.zooniverse.org>`__
-     -  CitSci Team
-     -  XX-XX-2025
-     - Idle
+   * -  Galaxy Zoo    
+     -  Galaxy Zoo Collaboration
+     -  N/A
+     - Under Developement 
      - EN
+   * -  Comet Catchers    
+     -  Colin Orion Chandler
+     -  N/A
+     - Under Developement 
+     - EN
+

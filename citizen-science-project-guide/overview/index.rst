@@ -18,4 +18,18 @@
 Overview
 ########
 
-This section is an overview of how to use the Citizen Science project.
+Rubin Observatory's CitSci team provides an infrastructure to support the creation and management of citizen science projects using data from the Legacy Survey of Space and Time (LSST). This pipeline connects the Rubin Science Platform (RSP) with the Zooniverse platform, allowing project leads to develop projects without the needing to download/upload large volumes of data and providing data storage.
+
+Through a notebook-based interface and a dedicated data pipeline, Rubin enables efficient sharing of large datasets, streamlined project setup, and technical support. This infrastructure includes templates, and guidelines to ensure compliance with data rights policies.
+
+Beyond technical support, Rubin fosters a collaborative community for project leads to share ideas, troubleshoot challenges, and coordinate efforts. Projects also benefit from broader visibility through Rubin’s public outreach channels, and may have opportunities to engage with formal education programs, further amplifying the reach of citizen science initiatives.
+
+########
+Project Developement 
+########
+
+Project teams are strongly encouraged to contact the CitSci team early in the development process by emailing cscience@lsst.org. Early coordination allows the team to provide technical support, guidance, and help ensure your project aligns with Rubin and Zooniverse best practices. We also recommend reviewing the Existing Project Catalog to explore prior or ongoing projects.
+
+Projects can be developed on the Rubin Science Platform (RSP) using Jupyter Notebooks (see the Tutorials section). These notebooks demonstrate how to use the Rubin pipeline to send data directly to the Zooniverse. A project template is available for optional use, which includes general Rubin branding, content, and useful links.
+
+All citizen science projects will undergo a review process, similar to the standard Zooniverse project review. Initially, the number of objects that can be sent to the Zooniverse is limited to 100. This limit will be increased once the project passes review and is approved for beta testing.

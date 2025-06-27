@@ -24,3 +24,5 @@ See also these intructions for `how to create a new topic <https://community.lss
 and `how to ask a confidential question <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>`_ via the Forum.
 
 Rubin staff monitor the Support category and will respond to all posts.
+
+Questions directly for the CitSci team can also be emailed to cscience@lsst.org.
