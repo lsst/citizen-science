@@ -40,6 +40,6 @@ This table was last updated: XX-XX-2025
    * -  Comet Catchers    
      -  Colin Orion Chandler
      -  N/A
-     - Under Developement 
+     - Active 
      - EN
 
