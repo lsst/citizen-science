@@ -69,6 +69,36 @@ Differences
 - CS volunteers are typically more skilled in cases where it is difficult to discern between two classes.
 
 
+.. Following on the similarities/differences, would it be possible to provide some advice on when to use AI vs CS? Sort of like a little checklist, like "If your project is A, B, C, then CS"?
+
+
+When is each approach most optimal?
+===================================
+
+We delineate circumstances and characteristics of problems that suggest that a particular method (AI or CS) will be more beneficial for a project.
+
+
+You probably want to use AI if ...
+----------------------------------
+- [ ] There is a lot of data (e.g., at least 1,000 objects/images per class); this can be simulated or real observed data.
+- [ ] You can simulate the data for objects with reasonable fidelity -- get most of the details.
+- [ ] The morphological features that indicate a particular class are more obvious than not to the human eye.
+- [ ] The classes are already clearly identified and well understood: you know what you're looking for.
+- [ ] No classes are well-identified: anomaly detection, like with principal component analysis (PCA).
+- [ ] You are seeking to classify many millions of objects.
+
+
+You probably want to use CS if ...
+----------------------------------
+- [ ] There is not a lot of data (e.g., only a few objects/images per class); this can be simulated or real observed data.
+- [ ] The morphological features that indicate a particular class are difficult to distinguish.
+- [ ] If you tried AI, and it didn't work.
+- [ ] The classes are not yet defined, and it's not obvious what you're looking for: you're looking for something new and different.
+- [ ] Some classes were not well identified in the AI algorithm that you already tried.
+- [ ] No classes are well identified: anomaly detection.
+- [ ] You are seeking to classify fewer than a million objects.
+
+
 Three Typical Pathways for Integrating AI and CS
 ================================================
 
@@ -78,11 +108,6 @@ There are three typical pathways for combining AI and CS.
 2. **AI classifiers prepare data for humans.** When there is a wealth of data for supervised training of an AI model, but the model persistently struggles to discern certain classes (resulting in false positives and false negatives), it may be appropriate to send this data to CS volunteers for their more nuanced perspective. 
 If there isn't much training data, a clustering method (e.g., k-means clustering or autoencoders) can be used to provide an initial, coarse-grained classification of the data, which can then be sent to CS volunteers.
 3. **Active Learning Hybrid.** Coming soon.
-
-
-.. Following on the similarities/differences, would it be possible to provide some advice on when to use AI vs CS? Sort of like a little checklist, like "If your project is A, B, C, then CS"?
-
-
 
 
 
