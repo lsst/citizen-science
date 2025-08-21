@@ -30,7 +30,8 @@ In addition to this advice, there are tutorials for doing citizen science tutori
 It is recommended that you study basic AI principles and methods, including performing your own small computational studies, before embarking on a CS project that integrates AI. 
 
 .. Context for the rest
-Almost all of the discussion on this page is in terms of classification tasks; it will consider the specific task of classifying 'stars' and 'galaxies' as an example when needed. 
+Almost all of the discussion on this page is in terms of classification tasks; 
+it will consider the specific task of classifying 'stars' and 'galaxies' as an example when needed. 
 Additionally, this discussion will focus on classifying images, because this is the most common application of both AI and CS. 
 
 
@@ -39,7 +40,8 @@ Additionally, this discussion will focus on classifying images, because this is 
 Comparing AI and CS
 ===================
 
-AI and CS have multiple similarities and differences. Identifying these items for your project is important for determining the best use of AI in your Rubin CS project. 
+AI and CS have multiple similarities and differences. 
+Identifying these items for your project is important for determining the best use of AI in your Rubin CS project. 
 
 
 Similarities
@@ -48,13 +50,11 @@ Similarities
 The similarities between AI and CS include the following:
 
 - Both methods take large sets of input data and output a classification score for each object in the set. The output scores are not inherently probabilistic, but they can be calibrated to be nearly probabilistic.
-- To an approximation, they can both be treated as ''black boxes'' because it remains an active area of research to interpret the ''reasons'' that an algorithm or a human would classify an object. 
-Using statistical metrics helps in both cases, but definitively determining the reasons remains elusive.
+- To an approximation, they can both be treated as ''black boxes'' because it remains an active area of research to interpret the ''reasons'' that an algorithm or a human would classify an object. Using statistical metrics helps in both cases, but definitively determining the reasons remains elusive.
 - Despite being black boxes, the problem or question must be carefully and specifically designed for AI algorithms and CS projects.
 - The data must be carefully prepared, for example, by normalizing images.
 - Though they do it in different ways, both methods can classify large numbers of complex inputs (like images) more efficiently and more reliably than an individual performing a manual investigation of the data. 
-- Both approaches require training. An AI model must be numerically trained on example data that has pairs of images and classifications. 
-In a CS project, volunteers must be taught about the subject matter and provided with example pairs of images and their corresponding true classifications.
+- Both approaches require training. An AI model must be numerically trained on example data that has pairs of images and classifications. In a CS project, volunteers must be taught about the subject matter and provided with example pairs of images and their corresponding true classifications.
 - Both AI and CS approaches are advanced fields of research, and there are experts in both fields; that expertise is very important for a successful Rubin CS project.
 - Both methods can be applied to a wide variety of data across many areas of research and industry -- natural images, climate, biology, medicine, etc.
 
@@ -68,8 +68,6 @@ Differences
 - AI requires a relatively high amount of data for training the algorithm, while very little is necessary for a CS approach.
 - CS volunteers are typically more skilled in cases where it is difficult to discern between two classes.
 
-
-.. Following on the similarities/differences, would it be possible to provide some advice on when to use AI vs CS? Sort of like a little checklist, like "If your project is A, B, C, then CS"?
 
 
 When is each approach most optimal?
