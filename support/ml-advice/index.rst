@@ -104,5 +104,4 @@ There are three typical pathways for combining AI and CS.
 
 1. **Human classifiers prepare data for AI classifiers.** When there is not enough training data for an AI model, human classifiers can perform the initial labeling. This is a common tactic in industry applications. 
 
-2. **AI classifiers prepare data for humans.** When there is a wealth of data for supervised training of an AI model, but the model persistently struggles to discern certain classes (resulting in false positives and false negatives), it may be appropriate to send this data to CS volunteers for their more nuanced perspective. 
-If there isn't much training data, a clustering method (e.g., k-means clustering or autoencoders) can be used to provide an initial, coarse-grained classification of the data, which can then be sent to CS volunteers.
+2. **AI classifiers prepare data for humans.** When there is a wealth of data for supervised training of an AI model, but the model persistently struggles to discern certain classes (resulting in false positives and false negatives), it may be appropriate to send this data to CS volunteers for their more nuanced perspective. If there isn't much training data, a clustering method (e.g., k-means clustering or autoencoders) can be used to provide an initial, coarse-grained classification of the data, which can then be sent to CS volunteers.
