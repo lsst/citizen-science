@@ -12,10 +12,10 @@
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
-.. A warning will alert you of identical labels during the linkcheck process.
+.. A warning will alert you if identical labels during the linkcheck process.
 
 ######################################################
-Considerations for integrating AI with Citizen Science
+Considerations for Integrating AI with Citizen Science
 ######################################################
 
 
@@ -50,7 +50,7 @@ Similarities
 The similarities between AI and CS include the following:
 
 - Both methods take large sets of input data and output a classification score for each object in the set. The output scores are not inherently probabilistic, but they can be calibrated to be nearly probabilistic.
-- To an approximation, they can both be treated as ''black boxes'' because it remains an active area of research to interpret the ''reasons'' that an algorithm or a human would classify an object. Using statistical metrics helps in both cases, but definitively determining the reasons remains elusive.
+- To an approximation, they can both be treated as "black boxes" because it remains an active area of research to interpret the "reasons" that an algorithm or a human would classify an object. Using statistical metrics helps in both cases, but definitively determining the reasons remains elusive.
 - Despite being black boxes, the problem or question must be carefully and specifically designed for AI algorithms and CS projects.
 - The data must be carefully prepared, for example, by normalizing images.
 - Though they do it in different ways, both methods can classify large numbers of complex inputs (like images) more efficiently and more reliably than an individual performing a manual investigation of the data. 
@@ -103,98 +103,6 @@ Three Typical Pathways for Integrating AI and CS
 There are three typical pathways for combining AI and CS.
 
 1. **Human classifiers prepare data for AI classifiers.** When there is not enough training data for an AI model, human classifiers can perform the initial labeling. This is a common tactic in industry applications. 
+
 2. **AI classifiers prepare data for humans.** When there is a wealth of data for supervised training of an AI model, but the model persistently struggles to discern certain classes (resulting in false positives and false negatives), it may be appropriate to send this data to CS volunteers for their more nuanced perspective. 
 If there isn't much training data, a clustering method (e.g., k-means clustering or autoencoders) can be used to provide an initial, coarse-grained classification of the data, which can then be sent to CS volunteers.
-3. **Active Learning Hybrid.** Coming soon.
-
-
-
-.. Typical steps for implementing AI with Citizen Science
-.. ======================================================
-.. 1. Establish a clear question or problem -- e.g., classify a kind of object
-.. 2. Study and prepare data: create classes and make sure there are enough 
-.. 3. Obtain classifications from one kind of classifier (CS volunteers or AI model)
-.. 4. Send labels to the other kind of classifier 
-
-
-
-.. Potential and pitfalls of AI
-.. ============================
-
-.. - Interpretability
-.. - Taking up space from humans
-.. - Requires large amounts of data
-
-
-
-.. Selected papers at the intersection of AI and Citizen Science
-.. =============================================================
-
-.. - Zoobot (cite)
-.. - Gravity spy (cite)
-.. - Space Warps (cite)
-.. - Galaxy Zoo (cite)
-.. - Dark Energy explorers (cite)
-.. - Planet hunters (cite)
-.. - Supernova hunters
-
-
-
-.. Selected papers and resources for AI and data science 
-.. =====================================================
-
-.. - Karpathy's recipe for neural networks
-.. - Kim and ?? on neural networks for star-galaxy separation
-.. - Dieleman et al., 2018 on galaxy morphologies
-.. - Jacobs et al., strong lensing in DES
-
-
-
-.. Glossary of Terms for AI 
-.. ========================
-
-.. - Supervised learning
-.. - Unsupervised learning
-.. - Reinforcement learning
-.. - Active learning
-.. - Human in the loop
-.. - Foundation models
-.. - Domain shift
-.. - Neural networks
-.. - Calibration
-
-
-
-.. Codebases for AI
-.. ================
-
-.. - Scikit Learn
-.. - Pytorch
-.. - Tensorflow
-
-
-
-.. Open Questions when integrating AI and CS
-.. =========================================
-
-.. - How do humans learn differently when interacting with AI in an active learning loop?
-.. - How do errors propagate from imperfectly labeled data to another classification box?
-.. - What is the most efficient and statistically principled way to update active learning targets?
-
-
-
-.. Recommendations when integrating AI and Citizen Science
-.. =======================================================
-.. - This is not a chatbot interaction; it's longer-term.
-.. - Be honest and forthright with the CS volunteers.
-.. - Pre-stablish principled statistical metrics for evaluating and calibrating classification outputs.
-.. - Familiarize yourself with ML tools. Practice with tutorials. Read the foundational papers.
-.. - Suit the algorithm directly to the task
-
-
-
-.. Related tutorials
-.. =================
-.. - Basics of AI for images (link)
-.. - Basics of AI with tabular data (TBD)
-.. - Basics of AI for images with Rubin simulations (TBD)
