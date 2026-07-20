@@ -137,14 +137,14 @@ Approval process
 
 #. Request the following to review the PR (additional reviewers may be included in the process):
    
-   * Brian Nord
+   * Clare Higgs
    * Melissa Graham
 
 #. Respond to the comments received during the review process.
 
 #. After all reviewers approve, the submitter will squash commits and merge to main.
 
-#. Notify Brian Nord or Melissa Graham the PR was merged.
+#. Notify the reviewer that the PR was merged.
 
 #. Notify the authorized individual to tag the release.
 
