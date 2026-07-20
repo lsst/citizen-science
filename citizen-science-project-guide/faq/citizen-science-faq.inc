@@ -93,7 +93,7 @@ EPO and CST have prepared example Jupyter Notebooks that can be run in the RSP N
 How much data can I send at one time using a citizen science notebook?
 ------------------------------------------------
 
-Prior to approval by the data rights panel you can only send 100 subjects using the notebooks. After approval you can send 10,000 subjects at a time. You may send more than 10,000 subjects at a time, but you must first reach out and request an "excess data exception" from both Rubin EPO and the Zooniverse.
+Initially, you can only send 100 subjects using the notebooks. After contacting the Rubin EPO citizen science team, you can send 10,000 subjects at a time. You may send more than 10,000 subjects at a time, but you must first reach out and request an “excess data exception” from Rubin EPO. The Rubin EPO citizen science team can be contacted on Slack, the Community Forum or email clare.higgs@noirlab.com
 
 What if I don't want to use the citizen science notebooks?
 ------------------------------------------------

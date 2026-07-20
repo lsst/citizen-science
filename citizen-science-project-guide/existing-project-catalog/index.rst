@@ -18,35 +18,39 @@
 Existing Project Catalog
 ########################
 
-This table is a catalog of existing citizen science projects, including projects that are completed, active, idle and soon-to-launch. Active and past projects can also be accessed on the Rubin community page on Zooniverse. We suggest you consult this list early in project developement to avoid duplication of efforts where possible and facilitate collaboration.
-If you have any concerns, please reach out to the citsci team.
+This table is a catalog of existing citizen science projects, including projects that are completed, active, idle and soon-to-launch. Active and past projects can also be accessed on the Rubin community page on Zooniverse. We suggest you consult this list early in project developement to avoid duplication of efforts where possible and facilitate collaboration. Active and past projects can be viewed at `zooniverse.org/rubin <https://zooniverse.org/rubin>`__”.
+
+If you have any concerns, please reach out to the citizen science team.
 
 .. list-table:: Rubin CitSci Projects
    :header-rows: 1
-   :widths: 3 1 1 1 1 
+   :widths: 3 1 1 1 
 
    * - Project Title
      - Project Lead
-     - Last Data Upload
      - Status
      - Languages Supported
+   * -  Rubin: Blobs and Blurs
+     -  David Sand
+     - Under Developement 
+     - EN
+   * -  Space Warps
+     -  Space Warps Collaboration
+     - Under Developement 
+     - EN
    * -  Galaxy Zoo    
      -  Galaxy Zoo Collaboration
-     -  N/A
-     - Under Developement 
+     - Active 
      - EN, ES
    * -  Comet Catchers    
      -  Colin Orion Chandler
-     -  N/A
-     - Active 
+     - Paused 
      - EN
    * -  Difference Detectives  
      -  Eric Bellm
-     -  N/A
      - Paused 
      - EN, ES
    * -  Rubin Alert Explorers 
      -  Tobias Géron
-     -  N/A
      - Paused 
      - EN, ES
