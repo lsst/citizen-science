@@ -27,26 +27,21 @@ If you have any concerns, please reach out to the citsci team.
 
    * - Project Title
      - Project Lead
-     - Last Data Upload
      - Status
      - Languages Supported
    * -  Galaxy Zoo    
      -  Galaxy Zoo Collaboration
-     -  N/A
      - Under Developement 
      - EN, ES
    * -  Comet Catchers    
      -  Colin Orion Chandler
-     -  N/A
      - Active 
      - EN
    * -  Difference Detectives  
      -  Eric Bellm
-     -  N/A
      - Paused 
      - EN, ES
    * -  Rubin Alert Explorers 
      -  Tobias Géron
-     -  N/A
      - Paused 
      - EN, ES
