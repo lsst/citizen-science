@@ -28,7 +28,7 @@ Beyond technical support, Rubin fosters a collaborative community for project le
 Project Developement 
 ########
 
-Project teams are strongly encouraged to contact the CitSci team early in the development process by emailing cscience@lsst.org. Early coordination allows the team to provide technical support, guidance, and help ensure your project aligns with Rubin and Zooniverse best practices. We also recommend reviewing the Existing Project Catalog to explore prior or ongoing projects.
+Project teams are strongly encouraged to contact the CitSci team early via Slack, the Community Forum or email at clare.higgs@noirlab.edu. Early coordination allows the team to provide technical support, guidance, and help ensure your project aligns with Rubin and Zooniverse best practices. We also recommend reviewing the Existing Project Catalog to explore prior or ongoing projects.
 
 Projects can be developed on the Rubin Science Platform (RSP) using Jupyter Notebooks (see the Tutorials section). These notebooks demonstrate how to use the Rubin pipeline to send data directly to the Zooniverse. A project template is available for optional use, which includes general Rubin branding, content, and useful links.
 
