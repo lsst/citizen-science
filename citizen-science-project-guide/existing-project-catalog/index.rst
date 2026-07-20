@@ -23,7 +23,7 @@ If you have any concerns, please reach out to the citsci team.
 
 .. list-table:: Rubin CitSci Projects
    :header-rows: 1
-   :widths: 3 1 1 1 1 
+   :widths: 3 1 1 1 
 
    * - Project Title
      - Project Lead
