@@ -19,12 +19,6 @@ Vera C. Rubin Observatory Documentation for Citizen Science
 ###########################################################
 
 .. This section should provide a brief, top-level description of the page.
-.. Important::
-
-    This documentation area is under development and only in the early stages of design.
-    It should not be used nor consulted for information at this time.
-
-    The currently active documentation is available at `Rubin Observatory Citizen Science <https://rubinobservatory.org/for-scientists/citizen-science>`_.
 
 This site provides information about the Vera C. Rubin Observatory's support for Citizen Science projects. Citizen science provides the opportunity for the public to participate in cutting-edge research while also providing a unique and valuable method for analysizing Rubin data for researchers. Rubin works in partnership with the Zooniverse to support members of the science community to build successful projects. 
 
