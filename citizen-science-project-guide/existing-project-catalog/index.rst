@@ -29,13 +29,21 @@ If you have any concerns, please reach out to the citsci team.
      - Project Lead
      - Status
      - Languages Supported
+   * -  Rubin: Blobs and Blurs
+     -  David Sand
+     - Under Developement 
+     - EN
+   * -  Space Warps
+     -  Space Warps Collaboration
+     - Under Developement 
+     - EN
    * -  Galaxy Zoo    
      -  Galaxy Zoo Collaboration
-     - Under Developement 
+     - Active 
      - EN, ES
    * -  Comet Catchers    
      -  Colin Orion Chandler
-     - Active 
+     - Paused 
      - EN
    * -  Difference Detectives  
      -  Eric Bellm
