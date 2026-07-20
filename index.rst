@@ -49,6 +49,9 @@ Tutorials
 The following information includes tutorials for Citizen Science. 
 We also include a description of the `rubin.citsci` package, which includes the workhorse tools for citizen science with Rubin.
 
+These notebooks will be included in the RSP Tutorials after DP2 release.  
+The notebooks will continue to be available as documented here, but please consult the Tutorials for the most current version. 
+
 .. toctree::
     :maxdepth: 2
     :glob:
