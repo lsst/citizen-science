@@ -18,7 +18,7 @@
 Getting Started Checklist
 #########
 
-We encourage you to reach out to the citizen science team early, often and whenever you need!  EPO citizen science team can be contacted on Slack, the Community Forum or email clare.higgs@noirlab.edu 
+We encourage you to reach out to the citizen science team early, often and whenever you need!  EPO citizen science team can be contacted on Slack, the Community Forum or email rubincitsci@noirlab.edu. 
 
 Below is a suggestion on how to get started:
 
