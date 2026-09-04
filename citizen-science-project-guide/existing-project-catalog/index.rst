@@ -32,7 +32,7 @@ If you have any concerns, please reach out to the citizen science team.
      - Languages Supported
    * -  Rubin: Blobs and Blurs
      -  David Sand
-     - Under Developement 
+     - Active 
      - EN
    * -  Space Warps
      -  Space Warps Collaboration
