@@ -32,7 +32,7 @@ If you are interested in volunteering as a member of the public, please visit `r
 Citizen Science project guide
 =============================
 
-The following is a guide to building a Citizen Science project using Rubin data on the Zooniverse platform. The `Zooniverse project builder <https://www.zooniverse.org/lab>`_ is also a great resource for getting started. 
+The following is a guide to building a Citizen Science project using Rubin data on the Zooniverse platform. The `Zooniverse Project Builder <https://www.zooniverse.org/lab>`_ is also a great resource for getting started. 
 
 .. toctree::
     :maxdepth: 2
