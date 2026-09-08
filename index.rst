@@ -64,7 +64,7 @@ The notebooks will continue to be available as documented here, but please consu
 Resources
 =========
 
-The following is information is provided to get additional support for Citizen Science.
+The following information is provided to get additional support for Citizen Science.
 
 .. toctree::
     :maxdepth: 2
