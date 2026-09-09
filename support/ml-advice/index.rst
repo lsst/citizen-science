@@ -97,10 +97,10 @@ You probably want to use CS if ...
 - You are seeking to classify fewer than a million objects.
 
 
-Three Typical Pathways for Integrating AI and CS
-================================================
+Two Typical Pathways for Integrating AI and CS
+==============================================
 
-There are three typical pathways for combining AI and CS.
+Below are two typical pathways for combining AI and CS.
 
 1. **Human classifiers prepare data for AI classifiers.** When there is not enough training data for an AI model, human classifiers can perform the initial labeling. This is a common tactic in industry applications. 
 
