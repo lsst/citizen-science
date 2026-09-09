@@ -26,7 +26,7 @@ Overview
 The goal of this page is to provide background, references, and advice for Rubin users who would like to use artificial intelligence (AI) -- otherwise known as machine learning (ML) -- within or alongside their citizen science (CS) research workflows. 
 AI and CS are overlapping and complementary procedures for rapidly assessing (typically, classifying) scientific data. 
 They have similar and unique pros and cons, and there are multiple ways to use these two methods in concert to improve the quality of your scientific results. 
-In addition to this advice, there are tutorials for doing citizen science tutorials.
+In addition to this advice, there are tutorials for doing citizen science with Rubin.
 It is recommended that you study basic AI principles and methods, including performing your own small computational studies, before embarking on a CS project that integrates AI. 
 
 .. Context for the rest
