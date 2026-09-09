@@ -28,6 +28,6 @@ Below is a suggestion on how to get started:
 #. Check the `data policy <https://citizen-science.lsst.io/citizen-science-project-guide/data-policy/index.html>`__ to understand whether your proposed project is in alignment. Any questions or concerns, reach out to the Rubin EPO citizen science team
 #. Develop your data sets using the RSP
 #. Use the citizen science notebooks to initialize a project on the Zooniverse or `build a project using Zooniverse tools <https://help.zooniverse.org/getting-started/>`__
-#. Trial sending 100 objects from the RSP to your project on the Zooniverse. Your data will be stored in the EDC (Education Data Center)
+#. Trial sending 100 objects from the RSP to your project on the Zooniverse. Your data will be stored in the Education Data Center (EDC)
 #. Contact the  EPO citizen science team to lift the 100  object limit and continue development
 #. Finalize your project and `continue through to Zooniverse launch <https://help.zooniverse.org/getting-started/lab-policies/>`__
