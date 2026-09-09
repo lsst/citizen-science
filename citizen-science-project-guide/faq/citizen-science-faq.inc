@@ -49,7 +49,7 @@ All steps in the orange columns are actions taken by project owners in the RSP N
 Where can I use the citizen science notebooks/pipeline?
 ------------------------------------------------
 
-As of July 2026, the citizen science notebooks will work automatically in "the cloud" instance of the RSP Notebook Aspect at https://data.lsst.cloud, and with some minor additional steps in the UKDF instance at http://rsp.lsst.ac.uk/. The notebooks cannot be run at the USDF (https://usdf-rsp.slac.stanford.edu/) at this time. The notebooks will not function in any other environment including in your local device.
+As of July 2026, the citizen science notebooks will work automatically in "the cloud" instance of the RSP Notebook Aspect at https://data.lsst.cloud, and with some minor additional steps in the UKDF instance at http://rsp.lsst.ac.uk/. The notebooks cannot be run at the USDF (https://usdf-rsp.slac.stanford.edu/) at this time. The notebooks will not function in any other environment including on your local device.
 
 What software do I need to run the citizen science tutorial notebooks?
 ------------------------------------------------
