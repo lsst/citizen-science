@@ -83,7 +83,7 @@ The Zooniverse refers to these datasets as a "subject sets" and each flipbook or
 Where is the citizen science data stored?
 ------------------------------------------------
 
-One of the benefits of working with Rubin EPO is you will get free data hosting in the EPO Data Center (EDC). You image data is stored in EPO's cloud storage and hosted there and is publicly available for Zooniverse's project builder. Your project data will automatically be uploaded to the EDC if you use the citizen science notebooks as a starting place, or you can request for assistance in manually uploading your project data.
+One of the benefits of working with Rubin EPO is you will get free data hosting in the EPO Data Center (EDC). Your image data is stored in EPO's cloud storage and hosted there and is publicly available for Zooniverse's project builder. Your project data will automatically be uploaded to the EDC if you use the citizen science notebooks as a starting place, or you can request for assistance in manually uploading your project data.
 
 What are the "citizen science notebooks"?
 ------------------------------------------------
