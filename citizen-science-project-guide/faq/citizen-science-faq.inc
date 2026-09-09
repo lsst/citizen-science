@@ -98,7 +98,7 @@ Initially, you can only send 100 subjects using the notebooks. After contacting 
 What if I don't want to use the citizen science notebooks?
 ------------------------------------------------
 
-Using the citizen science notebooks is the easiest way to upload your data, but EPO can still assist in getting your data into the EDC for public storage/hosting should you choose not to use the notebooks. The most common use case for this is transferring data from the USDF, where the citizen science notebooks are not functional, to the EDC. Transferring the data is often a collaborative effort, but an EPO resource will be able to assist. After the upload you will be responsible for the assembling the Zooniverse manifest file referencing the uploaded image URLs.
+Using the citizen science notebooks is the easiest way to upload your data, but EPO can still assist in getting your data into the EDC for public storage/hosting should you choose not to use the notebooks. The most common use case for this is transferring data from the USDF, where the citizen science notebooks are not functional, to the EDC. Transferring the data is often a collaborative effort, but an EPO resource will be able to assist. After the upload you will be responsible for assembling the Zooniverse manifest file referencing the uploaded image URLs.
 
 If I lose track of my data can EPO provide a backup copy?
 ------------------------------------------------
