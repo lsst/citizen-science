@@ -23,7 +23,7 @@ This section describes how Rubin data can be used for citizen science projects. 
 Proprietary
 ===========
 
-Data released as part of Rubin’s annual data releases are proprietary for two years, as are the prompt-processed visit-images and difference-images (Section 5.1 of RDO-013). Citizen science projects are publicly hosted on the Zooniverse, therefore proprietary data cannot be displayed to the public. Rubin encourages all scientists to consider how their projects can be completed using world public data and/or anonymized or derived data (see below). However, if there is a scientifically compelling reason, project teams are encouraged to reach out to the CitSci team to discuss options.  
+Data released as part of Rubin’s annual data releases are proprietary for two years, as are the prompt-processed visit-images and difference-images (Section 5.1 of RDO-013). Citizen science projects are publicly hosted on the Zooniverse, so care must be taken because proprietary data cannot be displayed to the public. Rubin encourages all scientists to consider how their projects can be completed using world public data and/or anonymized or derived data (see below). However, if there is a scientifically compelling reason, project teams are encouraged to reach out to the CitSci team to discuss options.  
 
 Public
 ======
