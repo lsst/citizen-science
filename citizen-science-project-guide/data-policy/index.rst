@@ -28,7 +28,7 @@ Data released as part of Rubin’s annual data releases are proprietary for two 
 Public
 ======
 
-Rubin data that are considered “public” are freely available for use in citizen science projects. As described in DPOL-301, 503, and 504 in RDO-013, the contents of the alert packets and the Prompt Products Database (PPDB), which are described in the Rubin Data Products Definitions Document (DPDD; LSE-163), are public.
+Rubin data that are considered “public” are freely available for use in citizen science projects. As described in DPOL-301, 503, and 504 in RDO-013, the contents of the alert packets and the Prompt Products Database (PPDB), which are described in the Rubin Data Products Definition Document (DPDD; `LSE-163 <https://lse-163.lsst.io/>`_), are public.
 
 Derived
 =======
