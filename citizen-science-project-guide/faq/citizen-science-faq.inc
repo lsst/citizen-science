@@ -90,8 +90,8 @@ What are the "citizen science notebooks"?
 
 EPO and the Rubin Community Science Team (CST) have prepared example Jupyter Notebooks that can be run in the RSP Notebook Aspect and demonstrate specific use cases for curating data for a citizen science project. If you do use one of the citizen science notebooks as a starting place you automatically have your Zooniverse manifest file created, your image data zipped up and uploaded, and Zooniverse will be noticed automatically of the new subject set and will begin building it immediately. When your Zooniverse workflows are completed for each subject set you can even use the notebooks to request a classification export from the Zooniverse. The notebooks are also kept up-to-date with the latest updates to the Rubin Data Products (TAP query service, Butler, image cutout service, etc.).
 
-How much data can I send at one time using a citizen science notebook?
-------------------------------------------------
+How much data can I send at one time using a Rubin citizen science notebook?
+----------------------------------------------------------------------
 
 Initially, you can only send 100 subjects using the notebooks. After contacting the Rubin EPO citizen science team, you can send 10,000 subjects at a time. You may send more than 10,000 subjects at a time, but you must first reach out and request an “excess data exception” from Rubin EPO. The Rubin EPO citizen science team can be contacted on Slack, the Community Forum or email rubincitsci@noirlab.edu.
 
