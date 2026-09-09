@@ -93,7 +93,7 @@ EPO and the Rubin Community Science Team (CST) have prepared example Jupyter Not
 How much data can I send at one time using a Rubin citizen science notebook?
 ----------------------------------------------------------------------
 
-Initially, you can only send 100 subjects using the notebooks. After contacting the Rubin EPO citizen science team, you can send 10,000 subjects at a time. You may send more than 10,000 subjects at a time, but you must first reach out and request an “excess data exception” from Rubin EPO. The Rubin EPO citizen science team can be contacted on Slack, the Community Forum or email rubincitsci@noirlab.edu.
+Initially, you can only send 100 subjects using the notebooks. After contacting the Rubin EPO citizen science team, you can send 10,000 subjects at a time. You may send more than 10,000 subjects at a time, but you must first reach out and request an “excess data exception” from Rubin EPO. The Rubin EPO citizen science team can be contacted on the Rubin Community Forum or via email at rubincitsci@noirlab.edu.
 
 What if I don't want to use the citizen science notebooks?
 ------------------------------------------------
