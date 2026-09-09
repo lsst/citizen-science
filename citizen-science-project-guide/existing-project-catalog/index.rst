@@ -18,7 +18,7 @@
 Existing Project Catalog
 ########################
 
-This table is a catalog of existing citizen science projects based on Rubin data, including projects that are completed, active, idle, and soon-to-launch. Active and past projects can also be accessed on the Rubin community page on Zooniverse. Consult this list early in project development to avoid duplication of efforts where possible and facilitate collaboration. Active and past projects can be viewed at `zooniverse.org/rubin <https://zooniverse.org/rubin>`__.
+This table is a catalog of existing citizen science projects based on Rubin data, including projects that are completed, active, idle, and soon-to-launch. Active and past projects can also be accessed on the `Rubin community page on Zooniverse <https://www.zooniverse.org/organizations/rubinepo/rubin-observatory>`_. Consult this list early in project development to avoid duplication of efforts where possible and facilitate collaboration. Active and past projects can be viewed at `zooniverse.org/rubin <https://zooniverse.org/rubin>`__.
 
 If you have any concerns, please reach out to the Rubin citizen science team.
 
