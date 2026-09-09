@@ -77,7 +77,7 @@ There are plans to also provide at a later date:
 * A machine learning notebook
 * A notebook that makes use of alert broker data
 
-The Zooniverse refers to these datasets as a "subject sets" and each flipbook or static cutout is referred to as a "subject".
+The Zooniverse refers to these datasets as "subject sets" and each flipbook or static cutout is referred to as a "subject".
 
 
 Where is the citizen science data stored?
