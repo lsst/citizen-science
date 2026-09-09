@@ -24,7 +24,7 @@ Below is a suggestion on how to get started:
 
 #. Have a great idea for a project and be enthusiastic to welcome public participation!
 #. Explore active and past projects at `zooniverse.org/rubin <https://zooniverse.org/rubin>`__ or on Zooniverse in general - get inspired!
-#. Consult the `Existing Project Catalog <https://citizen-science.lsst.io/citizen-science-project-guide/existing-project-catalog/index.html>`__, if a project appears similar to your project, reach out to the Rubin citizen science team or the project team
+#. Consult the `Existing Project Catalog <https://citizen-science.lsst.io/citizen-science-project-guide/existing-project-catalog/index.html>`__, if a project appears similar to your project, reach out to the Rubin citizen science team or that citizen science project’s team
 #. Check the `data policy <https://citizen-science.lsst.io/citizen-science-project-guide/data-policy/index.html>`__ to understand whether your proposed project is in alignment. Any questions or concerns, reach out the EPO citizen science team
 #. Develop your data sets using the RSP
 #. Use the citizen science notebooks to initialize a project on the Zooniverse or `build a project using Zooniverse tools <https://help.zooniverse.org/getting-started/>`__
