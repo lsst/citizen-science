@@ -20,7 +20,7 @@ Resources
 
 .. This section should provide a brief, top-level description of the page.
 
-This page includes information on getting support for Citizen Science as well as additional resources.
+This page includes information on getting support for Rubin citizen science projects as well as additional resources.
 
 .. toctree::
    :maxdepth: 2
