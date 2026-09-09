@@ -24,7 +24,7 @@
 
 .. _FAQ-Primary-Contact:
 
-`The Zooniverse covers their own FAQs which you can find here. <https://www.zooniverse.org/about/faq>`_
+`Zooniverse covers their own FAQs which you can find here. <https://www.zooniverse.org/about/faq>`_
 
 Who should I contact for additional information?
 ------------------------------------------------
