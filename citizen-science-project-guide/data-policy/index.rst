@@ -43,4 +43,4 @@ Anonymized data refers to data (public or proprietary) for which the unique iden
 Zooniverse Policies
 ===================
 
-Zooniverse has multiple policies regarding project design, public engagement, data management, publication of results, and more. These policies are discussed on the `Zooniverse Lab Policies page <https://www.zooniverse.org/lab-policies>`_. 
+Zooniverse has multiple policies regarding project design, public engagement, data management, publication of results, and more. These policies are discussed on the `Zooniverse Help policies page <https://www.zooniverse.org/lab-policies>`_. 
