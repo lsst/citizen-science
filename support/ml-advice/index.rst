@@ -73,7 +73,7 @@ Differences
 When is each approach most optimal?
 ===================================
 
-We delineate circumstances and characteristics of problems that suggest that a particular method (AI or CS) will be more beneficial for a project.
+The bulleted lists below delineate circumstances and characteristics of problems that suggest that a particular method (AI or CS) will be more beneficial for a project.
 
 
 You probably want to use AI if ...
