@@ -32,8 +32,8 @@ Who should I contact for additional information?
 Questions about doing citizen science projects with Rubin Observatory should be submitted in the
 Support category of the `Rubin Community Forum <https://community.lsst.org/>`__.
 
-What is the high-level workflow of using the citizen science notebooks?
-------------------------------------------------
+What is the high-level workflow of using the Rubin citizen science notebooks?
+-----------------------------------------------------------------------------
 
 The high-level details are illustrated in this diagram:
 
