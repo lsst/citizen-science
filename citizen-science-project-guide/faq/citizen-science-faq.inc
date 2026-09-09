@@ -113,4 +113,4 @@ The most identifiable piece of information we collect is email address and we us
 Can I request for my data to be purged from the EPO Data Center cloud storage?
 ------------------------------------------------
 
-Yes, we can purge your data upon request.
+Yes, the Rubin EPO team can purge your data upon request.
