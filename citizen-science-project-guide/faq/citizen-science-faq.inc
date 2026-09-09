@@ -56,7 +56,7 @@ What software do I need to run the citizen science tutorial notebooks?
 
 The easiest way to get started is to clone the https://github.com/lsst-epo/citizen-science-notebooks repo into your home directory in the RSP Notebook Aspect. The repo contains not only the notebooks, but also a utility helper script that is referenced in the tutorial notebook. The utility helper script provides time-saving convenience functions designed to demonstrate TAP and Butler query usage, Zooniverse manifest file creation, among other items.
 
-The long-term plan is for these notebooks to be deployed automatically in the `~/notebooks/tutorial-notebooks` folder by default.
+The long-term plan is for these notebooks to be deployed automatically in the RSP `~/notebooks/tutorial-notebooks` folder by default.
 
 What prerequisite steps are necessary to use the citizen science tutorial notebooks?
 ------------------------------------------------
