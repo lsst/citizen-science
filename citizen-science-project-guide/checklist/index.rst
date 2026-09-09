@@ -18,7 +18,7 @@
 Getting Started Checklist
 #########
 
-We encourage you to reach out to the citizen science team early, often and whenever you need! The EPO citizen science team can be contacted on the Rubin Community Forum or via email at rubincitsci@noirlab.edu. 
+Reach out to the citizen science team early, often, and whenever you need! The EPO citizen science team can be contacted on the Rubin Community Forum or via email at rubincitsci@noirlab.edu. 
 
 Below is a suggestion on how to get started:
 
