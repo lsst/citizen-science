@@ -44,7 +44,7 @@ The high-level details are illustrated in this diagram:
    :scale: 100 %
    :align: center
 
-All steps in the orange columns are actions taken by project owners in the RSP Notebook Aspect. All steps in the blue and purple columns happen automatically behind-the-scenes in the citizen science pipeline or on the Zooniverse platform.
+All steps in the orange columns are actions taken by project owners in the RSP Notebook Aspect. All steps in the blue and purple columns happen automatically behind-the-scenes in the Rubin citizen science pipeline or on the Zooniverse platform.
 
 Where can I use the citizen science notebooks/pipeline?
 ------------------------------------------------
