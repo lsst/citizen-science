@@ -78,7 +78,7 @@ The bulleted lists below delineate circumstances and characteristics of problems
 
 You probably want to use AI if ...
 ----------------------------------
-- There is a lot of data (e.g., at least 1,000 objects/images per class); this can be simulated or real observed data.
+- There is a lot of training data (e.g., at least 1,000 objects/images per class); this can be simulated or real observed data.
 - You can simulate the data for objects with reasonable fidelity -- get most of the details.
 - The morphological features that indicate a particular class are more obvious than not to the human eye.
 - The classes are already clearly identified and well understood: you know what you're looking for.
@@ -88,7 +88,7 @@ You probably want to use AI if ...
 
 You probably want to use CitSci if ...
 --------------------------------------
-- There is not a lot of data (e.g., only a few objects/images per class); this can be simulated or real observed data.
+- There is not a lot of training data (e.g., only a few objects/images per class); this can be simulated or real observed data.
 - The morphological features that indicate a particular class are difficult to distinguish.
 - If you tried AI, and it didn't work.
 - The classes are not yet defined, and it's not obvious what you're looking for: you're looking for something new and different.
