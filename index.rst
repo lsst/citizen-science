@@ -20,9 +20,9 @@ Vera C. Rubin Observatory Documentation for Citizen Science
 
 .. This section should provide a brief, top-level description of the page.
 
-This site provides information about the Vera C. Rubin Observatory's support for Citizen Science projects. Citizen science provides the opportunity for the public to participate in cutting-edge research while also providing a unique and valuable method for analysizing Rubin data for researchers. Rubin works in partnership with the Zooniverse to support members of the science community to build successful projects. 
+This site provides information about the Vera C. Rubin Observatory's support for Citizen Science projects. Citizen science, sometimes abbreviated as CitSci, provides the opportunity for the public to participate in cutting-edge research while also providing a unique and valuable method for analyzing Rubin data for researchers. Rubin works in partnership with the `Zooniverse <https://www.zooniverse.org/>`_ to support members of the science community to build successful projects. 
 
-The public excitement, interest and time is a valuable resource to all Rubin based citizen science projects. Our guide here aims to respect the public’s time and interest. We  thank our project leads for your efforts to adhere to the best practices and guidelines and support you in  giving back to the public at large as we share the Rubin Observatory with the world.
+The public's excitement, interest, and time are valuable resources to all Rubin based citizen science projects. This guide aims to respect the public’s time and interest. Thank you to citizen science project leads for your efforts to adhere to the best practices and guidelines; Rubin Observatory supports you in giving back to the public at large as you share Rubin Observatory with the world.
 
 If you are interested in volunteering as a member of the public, please visit `rubinobservatory.org/explore/citizen-science <https://rubinobservatory.org/explore/citizen-science>`_. 
 
@@ -32,7 +32,7 @@ If you are interested in volunteering as a member of the public, please visit `r
 Citizen Science project guide
 =============================
 
-The following is a guide to building a Citizen Science project using Rubin data on the Zooniverse platform. The `Zooniverse project builder <https://www.zooniverse.org/lab>`_ is also a great resource for getting started. 
+The following is a guide to building a Citizen Science project using Rubin data on the Zooniverse platform. The `Zooniverse Project Builder <https://www.zooniverse.org/lab>`_ is also a great resource for getting started. 
 
 .. toctree::
     :maxdepth: 2
@@ -47,9 +47,9 @@ Tutorials
 =========
 
 The following information includes tutorials for Citizen Science. 
-We also include a description of the `rubin.citsci` package, which includes the workhorse tools for citizen science with Rubin.
+Also included is a description of the `rubin.citsci` package, which includes the workhorse tools for citizen science with Rubin.
 
-These notebooks will be included in the RSP Tutorials after DP2 release.  
+These notebooks will be included in the RSP Tutorials after `Data Preview 2 <https://dp2.lsst.io/>`_ (DP2) release.  
 The notebooks will continue to be available as documented here, but please consult the Tutorials for the most current version. 
 
 .. toctree::
@@ -64,7 +64,7 @@ The notebooks will continue to be available as documented here, but please consu
 Resources
 =========
 
-The following is information is provided to get additional support for Citizen Science.
+The following information is provided to get additional support for Citizen Science.
 
 .. toctree::
     :maxdepth: 2
