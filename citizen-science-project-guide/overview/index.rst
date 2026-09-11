@@ -32,4 +32,4 @@ Citizen science project teams are strongly encouraged to contact the Rubin CitSc
 
 Projects can be developed on the Rubin Science Platform (RSP) using Jupyter Notebooks (see the :doc:`/tutorials/index` section). These notebooks demonstrate how to use the Rubin CitSci pipeline to send data directly to the Zooniverse. A project template is available for optional use, which includes general Rubin branding, content, and useful links.
 
-All citizen science projects will undergo a review process, similar to the standard Zooniverse project review. Initially, the number of objects that can be sent to the Zooniverse is limited to 100. This limit will be increased once the project passes review and is approved for beta testing.
+All citizen science projects will undergo a review process, similar to the standard Zooniverse project review. Initially, the number of subjects that can be sent to the Zooniverse is limited to 100. This limit will be increased once the project passes review and is approved for beta testing.
