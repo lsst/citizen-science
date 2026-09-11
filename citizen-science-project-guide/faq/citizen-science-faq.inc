@@ -120,3 +120,7 @@ Are there additional resources available from Zooniverse?
 
 Yes, please see the Zooniverse `Resources <https://www.zooniverse.org/about/resources>`_ page for items including Zooniverse logos and instructions on how to cite the Zooniverse.
 
+Is there a way to notify Zooniverse of a publication resulting from a Rubin CitSci project?
+-------------------------------------------------------------------------------------------
+
+Yes, submitting the `Zooniverse Publications <https://docs.google.com/forms/d/e/1FAIpQLSdbAKVT2tGs1WfBqWNrMekFE5lL4ZuMnWlwJuCuNM33QO2ZYg/viewform>`_ Google Form will notify Zooniverse of your new publication that benefitted from Zooniverse crowdsourcing, and your publication will also appear on `Zooniverse's publication list <https://www.zooniverse.org/about/publications>`_.
