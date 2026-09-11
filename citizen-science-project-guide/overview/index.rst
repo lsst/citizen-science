@@ -30,6 +30,6 @@ Project Developement
 
 Citizen science project teams are strongly encouraged to contact the Rubin CitSci team early via the Rubin Community Forum or email at rubincitsci@noirlab.edu. Early coordination allows the Rubin CitSci team to provide technical support, guidance, and help ensure your project aligns with Rubin and Zooniverse best practices. It is also recommended to review the :doc:`/citizen-science-project-guide/existing-project-catalog/index` to explore prior or ongoing projects.
 
-Projects can be developed on the Rubin Science Platform (RSP) using Jupyter Notebooks (see the :doc:`/tutorials/index` section). These notebooks demonstrate how to use the Rubin pipeline to send data directly to the Zooniverse. A project template is available for optional use, which includes general Rubin branding, content, and useful links.
+Projects can be developed on the Rubin Science Platform (RSP) using Jupyter Notebooks (see the :doc:`/tutorials/index` section). These notebooks demonstrate how to use the Rubin CitSci pipeline to send data directly to the Zooniverse. A project template is available for optional use, which includes general Rubin branding, content, and useful links.
 
 All citizen science projects will undergo a review process, similar to the standard Zooniverse project review. Initially, the number of objects that can be sent to the Zooniverse is limited to 100. This limit will be increased once the project passes review and is approved for beta testing.
