@@ -18,7 +18,7 @@
 Overview
 ########
 
-Rubin Observatory's CitSci team provides an infrastructure to support the creation and management of citizen science projects using data from the Legacy Survey of Space and Time (LSST). This pipeline connects the `Rubin Science Platform <https://data.lsst.cloud/>`_ (RSP) with the Zooniverse platform, allowing project leads to develop projects without the needing to download/upload large volumes of data and providing data storage.
+Rubin Observatory's CitSci team provides an infrastructure to support the creation and management of citizen science projects using data from the Legacy Survey of Space and Time (LSST). This pipeline connects the `Rubin Science Platform <https://data.lsst.cloud/>`_ (RSP) with the `Zooniverse <https://www.zooniverse.org/>`_ platform, allowing citizen science project leads to develop projects without needing to download/upload large volumes of data.
 
 Through a notebook-based interface and a dedicated data pipeline, Rubin enables efficient sharing of large datasets, streamlined project setup, and technical support. This infrastructure includes templates, and guidelines to ensure compliance with data rights policies.
 
