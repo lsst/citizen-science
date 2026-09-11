@@ -124,3 +124,8 @@ Is there a way to notify Zooniverse of a publication resulting from a Rubin CitS
 -------------------------------------------------------------------------------------------
 
 Yes, submitting the `Zooniverse Publications <https://docs.google.com/forms/d/e/1FAIpQLSdbAKVT2tGs1WfBqWNrMekFE5lL4ZuMnWlwJuCuNM33QO2ZYg/viewform>`_ Google Form will notify Zooniverse of your new publication that benefitted from Zooniverse crowdsourcing, and your publication will also appear on `Zooniverse's publication list <https://www.zooniverse.org/about/publications>`_.
+
+Does Zooniverse provide best practices for closing out a CitSci project?
+------------------------------------------------------------------------
+
+Yes, see the Zooniverse `Closing Out Thoughtfully <https://help.zooniverse.org/best-practices/4-sunset/>`_ webpage.
