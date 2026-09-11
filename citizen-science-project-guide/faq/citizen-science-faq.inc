@@ -114,3 +114,9 @@ Can I request for my data to be purged from the EPO Data Center cloud storage?
 ------------------------------------------------
 
 Yes, the Rubin EPO team can purge your data upon request.
+
+Are there additional resources available from Zooniverse?
+---------------------------------------------------------
+
+Yes, please see the Zooniverse `Resources <https://www.zooniverse.org/about/resources>`_ page for items including Zooniverse logos and instructions on how to cite the Zooniverse.
+
