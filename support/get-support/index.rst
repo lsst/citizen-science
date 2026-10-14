@@ -18,7 +18,7 @@
 Get support
 ###########
 
-To ask questions or get help with any aspect of Rubin Observatory please post a new topic in the `Support category of the Rubin Community Forum <https://community.lsst.org/c/support/6>`_ using the category “Citizen Science”.
+To ask questions or get help with any aspect of citizen science with Rubin Observatory please post a new topic in the `Citizen Science category of the Rubin Community Forum <https://www.rubin.community/c/sci/citizen-science/65>`_.
 
 See also these instructions for `how to create a new topic <https://community.lsst.org/t/how-to-make-a-new-topic/8197>`_
 and `how to ask a confidential question <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>`_ via the Forum.
