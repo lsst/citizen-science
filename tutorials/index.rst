@@ -64,4 +64,8 @@ It contains utility functions useful for sending and receiving Rubin data to and
 For instance, it contains functions such as `login_to_zooniverse` and `create_project_from_template` to assist Rubin users with the process of creating Zooniverse projects.
 Functions such as `write_manifest_file` and `send_tabular_data` assist with sending data to Zooniverse while functions such as `download_batch_metadata` and `retrieve_data` are used to download information and classifications from Zooniverse.
 
+Heading
+#######
 
+Subheading
+-----------
