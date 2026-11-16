@@ -64,7 +64,7 @@ It contains utility functions useful for sending and receiving Rubin data to and
 For instance, it contains functions such as `login_to_zooniverse` and `create_project_from_template` to assist Rubin users with the process of creating Zooniverse projects.
 Functions such as `write_manifest_file` and `send_tabular_data` assist with sending data to Zooniverse while functions such as `download_batch_metadata` and `retrieve_data` are used to download information and classifications from Zooniverse.
 
-**`create_new_project_from_template(project_id)`**
+** `create_new_project_from_template(project_id)` **
 
 This method will create a new project under the authenticated user's account based on the provided Zooniverse project ID. If no project template ID is provided then a new project will be created from a Rubin test project template.
 
@@ -72,15 +72,15 @@ Must be authenticated into the Zooniverse API or an exception will occur.
 
 Returns an instance of a Zooniverse project.
 
-**`login_to_zooniverse(email)`**
+** `login_to_zooniverse(email)` **
 
 Email address validation occurs before the login prompt is called and also checks if the latest version of this package is installed.
 
-**`list_workflows()`**
+** `list_workflows()` **
 
 If the user has logged into the Zooniverse platform via the login_to_zooniverse() function and selected a project, then this cell will list all active workflows for the selected project.
 
-**`create_project(name, description, make_active_project=False)`**
+** `create_project(name, description, make_active_project=False)` **
 
 Assuming you have a Zooniverse account and have used the login_to_zooniverse() method to log in, this method will create a new project for you with the following settings:
 
@@ -91,19 +91,19 @@ And `CitizenSciencePipelineError` exception is thrown if the `name` or `descript
 
 Returns a dict with the newly created project details.
 
-**`write_manifest_file(manifest, batch_dir)`**
+** `write_manifest_file(manifest, batch_dir)` **
 
 Takes an array of dicts in Zooniverse canonical format and writes a CSV manifest file to the Notebook Aspect's filesystem in the specified batch directory.
 
 Returns the relative path to the manifest.csv
 
-**`clean_up_unused_subject_set()`**
+** `clean_up_unused_subject_set()` **
 
 This method is used when a subject set was created as part of the data transfer process, but for some reason the process errored out and the empty subject set now needs to be cleaned up (deleted) so that unused subject sets do not clutter the target Zooniverse project.
 
 This method will quietly fail if there was no subject set found or if the login method hasn't been executed yet.
 
-**`check_status()`**
+** `check_status()` **
 
 This method will check whether or not the manifest file has been moved to the public storage bucket - which occurs at the last step of the process of transferring the new data to the target Zooniverse.
 
@@ -111,17 +111,17 @@ This method was implemented because the processing time for sending the maximum 
 
 Upon success, a JSON response will be returned which includes a "status" of "success" and a `manifest_url` of the URL where the manifest file was uploaded to.
 
-**`download_batch_metadata()`**
+** `download_batch_metadata()` **
 
 This method will return the most recent manifest URL for the active project if one exists.
 
-**`send_tabular_data(subject_set_name, manifest_location)`**
+** `send_tabular_data(subject_set_name, manifest_location)` **
 
 Sends the new tabular data batch to the Rubin EPO Data Center for public hosting.
 
 Upon successful completion, the manifest URL will be returned as well as a message that the data was successfully process, but that more processing will occur on the Zooniverse platform. Once this processing is done on the Zooniverse platform, the email address associated with the Zooniverse project should receive an email from Zoonivere stating that a new subject set is available.
 
-**`send_image_data(subject_set_name, zip_path, [options])`**
+** `send_image_data(subject_set_name, zip_path, [options])` **
 
 Sends the new data batch to the Rubin EPO Data Center for public hosting so that the data can be added to the target Zooniverse project.
 
@@ -140,10 +140,10 @@ https://github.com/lsst-epo/citizen-science-notebooks/blob/main/utils.py
 
 Upon successful completion, the manifest URL will be returned as well as a message that the data was successfully process, but that more processing will occur on the Zooniverse platform. Once this processing is done on the Zooniverse platform, the email address associated with the Zooniverse project should receive an email from Zoonivere stating that a new subject set is available.
 
-**`zip_image_cutouts(batch_dir)`**
+** `zip_image_cutouts(batch_dir)` **
 
 This function is responsible for zipping up all the cutouts that will be sent to the Zooniverse, and returns the path to the zip file.
 
-**`retrieve_data(project_id)`**
+** `retrieve_data(project_id)` **
 
 Given a project ID of a project that contains a completed workflow with data that has been classified, this method will request the classified/completed data and download it if it is available.
